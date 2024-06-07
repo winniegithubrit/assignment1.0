@@ -1,0 +1,32 @@
+HELLO GIT!
+
+STEPS I TOOK TO MAKE IT A SUCCESS
+
+
+Task 1: Git Initialization
+Initialize a new Git repository in your local folder:
+git init
+
+Task 2: Connecting to GitHub
+I Linked my local repository to the GitHub repository i created:
+
+
+
+git remote add origin https://github.com/winniegithubrit/assignment1.0.git
+
+Task 3: Making Changes
+Created a File:
+echo "Hello, Git!" > hello.txt
+
+3.added and commited changes 
+git add hello.txt
+
+git commit -m "Add hello.txt with a greeting"
+
+Task 4: Pushing to GitHub
+Pushing to GitHub:
+
+git push
+
+
+git push -u origin main
